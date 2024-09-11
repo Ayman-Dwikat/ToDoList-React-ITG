@@ -114,8 +114,8 @@ export default function App() {
 
   return (
     <>
-      {/* <Header /> */}
-      {/* <Main>
+      <Header />
+      <Main>
         <AddTask onAddTask={handleAddTask} />
         <TaskFilter
           filterValue={filterValue}
@@ -128,7 +128,7 @@ export default function App() {
           onDeleteAllTasks={handleDeleteAllTasks}
           onChangeTask={handleChangeTask}
         />
-      </Main> */}
+      </Main>
       <Footer />
     </>
   );
