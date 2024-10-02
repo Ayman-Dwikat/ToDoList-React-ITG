@@ -11,11 +11,5 @@ This project is a simple, responsive To-Do List application built with **React**
 - **Mark Tasks as Completed:** Mark tasks as completed by clicking on a toggle state switch, which toggles its completed state.
 - **Filter Tasks by Status:** Filter tasks to display all tasks, only completed tasks, only pending tasks, or only not completed tasks.
 
-### **Technologies Used**
-- **React:** For building the user interface and managing state.
-- **React Hooks:** For handling state and lifecycle methods in functional components.
-- **CSS & Bootstrap:** For styling and ensuring responsive design.
-- **Local Storage:** For data persistence across page reloads.
-
 ### **Live Demo**
 - [Preview the design here](https://todo-list-itg.netlify.app/)
