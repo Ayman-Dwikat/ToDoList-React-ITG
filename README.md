@@ -1,4 +1,4 @@
-## **Responsive To-Do List Application Using React**
+## **Responsive To-Do List Application**
 
 This project is a simple, responsive To-Do List application built with **React**, **React Hooks**, **CSS**, and **Bootstrap**. The application allows users to add, edit, delete, and manage tasks, set deadlines, and save tasks in local storage for persistence. It features a responsive design that works seamlessly across desktop and mobile devices.
 
