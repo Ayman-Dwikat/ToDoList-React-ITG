@@ -1,21 +1,21 @@
+## **Responsive To-Do List Application Using React**
 
-Here's the updated README file with the appropriate section formatting using ### and ** for emphasis:
+This project is a simple, responsive To-Do List application built with **React**, **React Hooks**, **CSS**, and **Bootstrap**. The application allows users to add, edit, delete, and manage tasks, set deadlines, and save tasks in local storage for persistence. It features a responsive design that works seamlessly across desktop and mobile devices.
 
-To-Do List App Using React with ITG Company
-Responsive To-Do List Application
-This project is a simple, responsive To-Do List application built with React, React Hooks, CSS, and Bootstrap. The application allows users to manage tasks (add, edit, delete, and mark as completed), set deadlines, and store tasks persistently in local storage. It features a responsive design for seamless functionality across both desktop and mobile devices.
+### **Features**
+- **Task Management:** Add, edit, delete, and delete all tasks.
+- **Deadline Setting:** Use a date and time picker to set deadlines for tasks.
+- **Persistence:** Save tasks in local storage to retain them after page reload.
+- **Responsive Design:** Built with Bootstrap's grid system for a mobile-friendly layout.
+- **Modals:** Bootstrap modals for confirming task deletion.
+- **Mark Tasks as Completed:** Mark tasks as completed by clicking on a toggle state switch, which toggles its completed state.
+- **Filter Tasks by Status:** Filter tasks to display all tasks, only completed tasks, only pending tasks, or only not completed tasks.
 
-Features
-Task Management: Add, edit, and delete tasks. Users can also delete all tasks at once.
-Deadline Setting: Set deadlines for tasks using a date and time picker.
-Persistence: Store tasks in local storage so they remain available after the page reloads.
-Responsive Design: Built with Bootstrap for a mobile-friendly layout, ensuring optimal display across different devices.
-Mark Tasks as Completed: Toggle tasks as completed using a switch, which updates the task's state accordingly.
-Filter Tasks by Status: Filter tasks to view all, completed, or pending tasks.
-Bootstrap Modals: Use Bootstrap modals to confirm task deletion.
-Technologies Used
-React & React Hooks: Used to manage task states, lifecycles, and UI updates dynamically.
-Bootstrap: For responsive layout and UI components.
-Local Storage: Used to persist tasks even after the page reloads.
-Live Demo
-Preview the application here
+### **Technologies Used**
+- **React:** For building the user interface and managing state.
+- **React Hooks:** For handling state and lifecycle methods in functional components.
+- **CSS & Bootstrap:** For styling and ensuring responsive design.
+- **Local Storage:** For data persistence across page reloads.
+
+### **Live Demo**
+- [Preview the design here](https://todo-list-itg.netlify.app/)
